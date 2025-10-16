@@ -3,9 +3,5 @@ just change
 change again to use git diff
 dirty
 123
-<<<<<<< Updated upstream
 123
-=======
-1354654
-46
->>>>>>> Stashed changes
+
